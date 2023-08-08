@@ -5,10 +5,10 @@ app.controller('myCtrl',function($scope){
 
   
     $scope.products = [
-        {name: 'Product one', price: '$22.50'},
-        {name: 'Product two', price: '$15.00'},
-        {name: 'Product four', price: '$123.82'},
-        {name: 'Product five', price: '$123.75'}
+        {name: 'Product one', price: '22.50'},
+        {name: 'Product two', price: '15.00'},
+        {name: 'Product four', price: '123.82'},
+        {name: 'Product five', price: '123.75'}
     ];
     
 
